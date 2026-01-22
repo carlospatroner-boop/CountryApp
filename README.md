@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <small><i>Capturas tomadas del entorno de desarrollo en Android Studio</i></small>
+  <small><i>Agregue un buscador y probe la vista de mapa en satelite y relieve </i></small>
 </p>
