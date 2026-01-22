@@ -1,7 +1,12 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f7760464-bcc0-48b8-bbed-44d97056073f" width="200" style="border-radius: 10px; margin: 10px;" />
-  <img src="assets/home.png" width="200" style="border-radius: 10px; margin: 10px;" />
+<h3 align="center">📱 Capturas de Pantalla</h3>
 
-  <img width="1080" height="2400" alt="Screenshot_20260121_231302" src="https://github.com/user-attachments/assets/f7760464-bcc0-48b8-bbed-44d97056073f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbdd086f-3997-4dc9-8058-6e0186342c59" width="24%" alt="Vista de Inicio" />
+  <img src="https://github.com/user-attachments/assets/e875cf44-73ec-4c35-8dbd-4ca0fcf27992" width="24%" alt="Detalles de la Aplicación" />
+  <img src="https://github.com/user-attachments/assets/0978546b-7afb-43e2-b253-21cf74ae5dd5" width="24%" alt="Listado de Datos" />
+  <img src="https://github.com/user-attachments/assets/2130da47-43ad-4013-abaa-c9868f4b6717" width="24%" alt="Configuración o Perfil" />
+</p>
 
-</div><img width="1080" height="2400" alt="Screenshot_20260121_231231" src="https://github.com/user-attachments/assets/2bb80181-30df-4730-b43f-7dc50525d816" />
+<p align="center">
+  <small><i>Capturas tomadas del entorno de desarrollo en Android Studio</i></small>
+</p>
