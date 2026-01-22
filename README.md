@@ -1,4 +1,4 @@
-<h3 align="center">📱 Capturas de Pantalla</h3>
+<h3 align="center"> Capturas de Pantalla</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e875cf44-73ec-4c35-8dbd-4ca0fcf27992" width="24%" alt="Detalles de la Aplicación" />
